@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanlouis/weather-app.git"
+  },
+  "keywords": [],
+  "author": "Stanley Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanlouis/weather-app/issues"
+  },
+  "homepage": "https://github.com/stanlouis/weather-app#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
